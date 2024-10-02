@@ -36,5 +36,3 @@ A automação foi criada com base nas etapas manuais necessárias para registrar
  8. Clicar no botão de "Registrar".
 
 O código foi escrito para seguir essa sequência de ações.
-
-[Assista ao vídeo](https://youtu.be/W7Z3Fz_bmmM)
