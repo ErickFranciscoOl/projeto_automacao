@@ -1,3 +1,5 @@
+[Assista ao vídeo da utilização do Projeto](https://youtu.be/W7Z3Fz_bmmM)
+
 # Projeto de Automação em Python
 
 Este projeto em Python automatiza uma tarefa repetitiva e cansativa do dia a dia: preencher manualmente informações de produtos (nome, quantidade e valor) em um programa específico. O script lê um arquivo .txt com os dados dos produtos e preenche automaticamente cada campo no programa de registro.
