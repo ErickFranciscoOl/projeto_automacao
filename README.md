@@ -10,9 +10,9 @@ Este projeto em Python automatiza uma tarefa repetitiva e cansativa do dia a dia
 
 ## Tecnologias e bibliotecas usadas
 
-PyAutoGUI - Usada para simular movimentos do mouse e teclado.
-time.sleep - Usado para evitar que o script rode rápido demais e cause falhas no sistema.
-MouseInfo - Ferramenta usada para obter as coordenadas do mouse.
+* PyAutoGUI - Usada para simular movimentos do mouse e teclado.
+* time.sleep - Usado para evitar que o script rode rápido demais e cause falhas no sistema.
+* MouseInfo - Ferramenta usada para obter as coordenadas do mouse.
 
 ### Como usar o MouseInfo:
 * Abra o CMD;
