@@ -4,9 +4,9 @@ Este projeto em Python automatiza uma tarefa repetitiva e cansativa do dia a dia
 
 ## Arquivos do projeto
 
-app.exe - O programa em que as informações dos produtos são inseridas. É necessário cadastrar um usuário e, após login, a página do sistema será acessada.
-produtos.txt - Arquivo contendo a lista de produtos a serem lançados no sistema.
-projeto_automacao.py - Código da automação em Python.
+* app.exe - O programa em que as informações dos produtos são inseridas. É necessário cadastrar um usuário e, após login, a página do sistema será acessada.
+* produtos.txt - Arquivo contendo a lista de produtos a serem lançados no sistema.
+* projeto_automacao.py - Código da automação em Python.
 
 ## Tecnologias e bibliotecas usadas
 
